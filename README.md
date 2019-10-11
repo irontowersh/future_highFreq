@@ -16,5 +16,6 @@
 * 这里的源代码仅供参考，可以用Qt Creator编译
 
 ## 使用方法
+![image] (https://github.com/irontowersh/future_highFreq/blob/master/images/mainWindow.png)
 
 
