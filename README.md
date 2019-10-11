@@ -1,8 +1,7 @@
-# future_highFreq
-free access of, high-frequency data (1 min, tick) of Chinesse commodity future market
+# 中国期货高频数据-民间资源 future_highFreq
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
+  本项目是一个简单、免费且容易使用的绿色客户端软件，其唯一功能就是为用户提供中国期货市场的高频数据，包括1min的K线和0.5秒的tick快照两种数据。本软件的用户群体主要是在国内期货市场做交易的私募基金研究员、民间投资者、在校学生，尤其是对股票期货高频数据接触时间少于1年的投资者。本项目的数据来源并非官方第一手，故严谨性有所欠缺，专业的短线投资机构往往应当选用更专业、更正规的高频数据资源。但是，正规高频数据的费用往往不是个人投资者愿意去支付的，因此本项目希望为广大普通投资者在永久免费使用的情况下，提供比较准确、全面的中国期货市场高频数据。
+
+## 关于本项目
+
+
