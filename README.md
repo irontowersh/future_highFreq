@@ -12,7 +12,7 @@
 * 支持 windows7 和 windows10 系统，其他 windows 系统未做测试，暂不支持 linux
 
 ## 安装步骤
-* 绿色软件无需安装，下载好zip文件后解压，里面的 future_highFreq.exe 可以直接使用
+* 绿色软件无需安装，下载好zip文件后解压，里面的 future_highFreq.exe 可以直接使用 
 * 这里的源代码仅供参考，可以用Qt Creator编译
 
 ## 使用方法
