@@ -27,10 +27,16 @@
 
 ## 数据来源
 * 数据最早开始于2010年1月1日，更早年的期货数据是空缺的。最新的数据会不断地在周末更新，但是会有2周左右的滞后，查询最近一个月的数据会有查询不到的情况。
-![image](https://github.com/irontowersh/future_highFreq/blob/master/images/logo.ico)
+
 * 2010年到2019年6月底的1min和tick数据都来源于天软科技
 * 传送门：http://www.tinysoft.com.cn(http://www.tinysoft.com.cn)
-![image](https://github.com/irontowersh/future_highFreq/blob/master/images/logo.ico)
+
 * 2019年7月初以后的1min和tick数据都来源于掘金量化3
 * 传送门：https://www.myquant.cn(https://www.myquant.cn)
+
+## 其他来源
+* 本项目数据只来自于天软科技和掘金量化，但抽取数据的过程比较费力气，平时我们有更简单快捷的查看高频数据的方法
+* 文华财经，传送门：https://www.wenhua.com.cn/(https://www.wenhua.com.cn/)
+
+![image](https://github.com/irontowersh/future_highFreq/blob/master/images/mainWindow_2.png)
 
