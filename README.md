@@ -25,3 +25,12 @@
 6. 右侧区域中，是一些简单的数据统计，和频数直方分布图。
 7. 中间的分割线可以被左右拖动。
 
+## 数据来源
+* 数据最早开始于2010年1月1日，更早年的期货数据是空缺的。最新的数据会不断地在周末更新，但是会有2周左右的滞后，查询最近一个月的数据会有查询不到的情况。
+![image](https://github.com/irontowersh/future_highFreq/blob/master/images/logo.ico)
+* 2010年到2019年6月底的1min和tick数据都来源于天软科技
+* 传送门：http://www.tinysoft.com.cn(http://www.tinysoft.com.cn)
+![image](https://github.com/irontowersh/future_highFreq/blob/master/images/logo.ico)
+* 2019年7月初以后的1min和tick数据都来源于掘金量化3
+* 传送门：https://www.myquant.cn(https://www.myquant.cn)
+
