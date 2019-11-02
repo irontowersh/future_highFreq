@@ -12,7 +12,7 @@
 * 支持 windows7 和 windows10 系统，其他 windows 系统未做测试，不支持 linux
 
 ## 安装步骤
-* Github右上角"Clone or download"下载zip压缩包
+* Github右上角"Clone or download"下载zip压缩包 （Gitub有时网络较差）
 * 绿色软件无需安装，下载好zip文件后解压，里面的 future_highFreq.exe 可以直接使用 
 
 ## 使用方法
