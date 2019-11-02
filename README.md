@@ -17,7 +17,7 @@
 * 这里的源代码仅供参考，可以用Qt Creator编译
 
 ## 使用方法
-![image](https://pic3.zhimg.com/v2-fcd600d1bae20320e13b74da60fe429a_r.jpg)
+![image](https://pic1.zhimg.com/80/v2-aa72bc4c3391742ea8fd4d1cd78575dc_hd.jpg)
 1. 打开软件exe后，链接服务器，正常情况下等待几秒后即可连上。
 2. 已经连好服务器后，选择数据的频率，并查询期货合约列表，等待几秒后即出现结果。
 3. 左侧树状图中，可以双击选择想要下载的具体某一张合约。
@@ -40,7 +40,7 @@
 * 文华财经，传送门：[https://www.wenhua.com.cn](https://www.wenhua.com.cn)
 * 文华财经是一款比较标准的期货行情软件，始创于1996年，类似于股票软件如通达信、同花顺。
 
-![image](https://github.com/irontowersh/future_highFreq/blob/master/images/mainWindow_2.png)
+![image](https://pic4.zhimg.com/80/v2-7196594047976e066b7d2c844d115097_hd.jpg)
 * 若想查看tick数据：
 1. 安装好文华财经wh6或wh7，打开软件后，进入某张期货合约的“日内分时图”界面，右下角有“统计”的标签按钮。
 2. 点击“统计”按钮，则出现当前交易日的tick高频数据；如果数据不全，可以点击“下载全天明细数据”按钮来补全。
