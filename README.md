@@ -14,7 +14,6 @@
 ## 安装步骤
 * Github右上角"Clone or download"下载zip压缩包
 * 绿色软件无需安装，下载好zip文件后解压，里面的 future_highFreq.exe 可以直接使用 
-* 这里的源代码仅供参考，可以用Qt Creator编译
 
 ## 使用方法
 ![image](https://pic1.zhimg.com/80/v2-aa72bc4c3391742ea8fd4d1cd78575dc_hd.jpg)
