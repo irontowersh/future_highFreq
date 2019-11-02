@@ -17,7 +17,7 @@
 * 这里的源代码仅供参考，可以用Qt Creator编译
 
 ## 使用方法
-![image](https://github.com/irontowersh/future_highFreq/blob/master/images/mainWindow_1.png)
+![image](https://github.com/irontowersh/future_highFreq/blob/master/images/01.jpg)
 1. 打开软件exe后，链接服务器，正常情况下等待几秒后即可连上。
 2. 已经连好服务器后，选择数据的频率，并查询期货合约列表，等待几秒后即出现结果。
 3. 左侧树状图中，可以双击选择想要下载的具体某一张合约。
